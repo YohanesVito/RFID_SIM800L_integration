@@ -5,4 +5,4 @@ Arduino Uno - RFID MFRC522 Integration with SIM800L Module
 2. INPUT POWER MINIMAL 4.4V 1A
 3. UNTUK PENGETESTAN MENGGUNAKAN EXAMPLE GPRS TEST
 4. CONTOH GET 
-https://api.thingspeak.com/update?api_key=***&field1=521&field2=Muhajirin&field3=55&field4=MitsubishiL300
+https://api.thingspeak.com/update?api_key= ###KEY ANDA### &field1=521&field2=Muhajirin&field3=55&field4=MitsubishiL300
